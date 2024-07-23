@@ -14,12 +14,6 @@
 
 
 class Registro {
-<<<<<<< HEAD
-=======
-
-
->>>>>>> origin/main
-
 public:
     std::string nome;
     int id;
